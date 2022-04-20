@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/blaze_powder"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/rocket_thruster_model"}
+
+ ]
+
+ 
+}

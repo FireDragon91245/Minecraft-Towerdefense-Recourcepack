@@ -1,0 +1,11 @@
+{
+    "parent": "item/template_spawn_egg",
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 600}, "model": "item/fireball_turret"},
+     { "predicate": {"custom_model_data": 610}, "model": "item/fireball_foundation"}
+
+    ]
+   
+    
+   }

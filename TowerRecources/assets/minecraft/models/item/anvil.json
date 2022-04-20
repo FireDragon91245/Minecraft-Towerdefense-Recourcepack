@@ -1,0 +1,13 @@
+{
+ "parent": "block/anvil",
+ "textures": {
+  "layer0": "item/anvil"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/rocket_foundation_model"}
+
+ ]
+
+ 
+}

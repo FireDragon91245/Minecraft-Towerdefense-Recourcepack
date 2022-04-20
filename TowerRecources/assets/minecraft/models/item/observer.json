@@ -1,0 +1,13 @@
+{
+ "parent": "block/observer",
+ "textures": {
+  "layer0": "item/observer"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 600}, "model": "item/aiming_system_model"}
+
+ ]
+
+ 
+}

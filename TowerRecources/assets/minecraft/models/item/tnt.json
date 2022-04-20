@@ -1,0 +1,13 @@
+{
+ "parent": "block/tnt",
+ "textures": {
+  "layer0": "item/tnt"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 300}, "model": "item/tactical_wahrhead_model"}
+
+ ]
+
+ 
+}

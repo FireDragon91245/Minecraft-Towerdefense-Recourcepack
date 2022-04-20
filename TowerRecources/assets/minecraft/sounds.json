@@ -1,0 +1,12 @@
+{
+	"tower.tactical.explosion" : {
+		"sounds" : [
+			"tactical/tactical_explosion"
+		]
+	},
+	"tower.minigun.shot" : {
+		"sounds" : [
+			"minigun/minigun_shot"
+		]
+	}
+}
