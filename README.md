@@ -1,5 +1,5 @@
 # Minecraft-Towerdefense-Recourcepack
-Rhis is the other part to the towerdefense datapack, this part is just for the looks and dosnt add any new mechanics. This contains custom models and textures for the datapck towers. Datapack can be found at < github.com/FireDragon91245/Minecraft-Towerdefense-Datapack >.
+Rhis is the other part to the towerdefense datapack, this part is just for the looks and dosnt add any new mechanics. This contains custom models and textures for the datapck towers. Datapack can be found at < https://github.com/FireDragon91245/Minecraft-Towerdefense-Datapack >.
 
 # Compatibilety
 - compatible with optifine and forge.
